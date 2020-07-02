@@ -2,6 +2,9 @@
 
 [공통] 마크다운 markdown 작성법
 ======================
+## project status badge
+https://www.lesstif.com/gitbook/github-project-status-badge-54952153.html  
+추천 --> https://shields.io/
 
 # 1. 마크다운에 관하여
 ## 1.1. 마크다운이란?
